@@ -19,7 +19,7 @@ import {ref,reactive} from "vue"
 
 
 </script>
-<style lang="scss" scoped>
+<style scoped>
 .registerAcount{
   display: flex;
   justify-content: center;

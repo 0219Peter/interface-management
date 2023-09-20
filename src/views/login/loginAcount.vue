@@ -78,7 +78,7 @@ const submit = (loginFormRef: any) => {
 
 
 </script>
-<style lang="scss" scoped>
+<style scoped>
 .loginAcount{
   display: flex;
   justify-content: center;
